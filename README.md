@@ -13,10 +13,3 @@ perl fb.pl3 [facebook id] pass.txt
 
 
 
-#For Termux#
-
-first type > chmod +x *
-
-pkg install perl
-
-perl fb.pl3 [facebook id] pass.txt
